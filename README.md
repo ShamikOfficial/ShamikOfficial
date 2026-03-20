@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ShamikOfficial/ShamikOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shamik Basu
 
-Here are some ideas to get you started:
+**CS & Data Science · Los Angeles, CA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building intelligent systems at the intersection of machine learning, high-performance computing, and real-world impact*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamikbasu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shamik1900@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=flat-square&logo=googledrive&logoColor=white)](https://your-resume-link.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science and Data Science student based in Los Angeles with a strong interest in applied machine learning, NLP, and GPU-accelerated computing. I enjoy taking problems from raw data all the way to working models — and understanding what's happening under the hood.
+
+Currently **seeking a Data Science internship for Summer 2026** where I can contribute to real-world ML pipelines, work with large-scale data, and keep learning fast.
+
+---
+
+## Technical Skills
+
+**Languages & Core**
+`Python` `SQL` `C++` `Bash`
+
+**Machine Learning & AI**
+`scikit-learn` `PyTorch` `TensorFlow` `Hugging Face` `NLTK` `spaCy`
+
+**Data & Visualization**
+`pandas` `NumPy` `Matplotlib` `Plotly` `Tableau` `Seaborn`
+
+**High-Performance Computing**
+`CUDA` `cuDNN` `GPU Optimization`
+
+**Cloud & Tools**
+`AWS` `GCP` `Azure` `Docker` `Git` `Jupyter`
+
+---
+
+## Featured Projects
+
+### 🌿 [EcoMate-AI](https://github.com/ShamikOfficial/EcoMate-AI)
+AI-powered carbon footprint decoder that transforms receipts, bills, and daily activities into actionable environmental impact reports. Accepts text and image input via multimodal pipeline.
+`Python` `Computer Vision` `NLP` `Generative AI`
+
+### ⚡ [CUDA-Accelerated Python Library](https://github.com/ShamikOfficial/CUDA-Accelerated-Python-Library)
+Custom CUDA kernels for accelerating numerical Python workloads — benchmarked against NumPy/SciPy for speedup analysis.
+`CUDA` `C++` `Python` `GPU Computing` `Jupyter`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![Shamik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShamikOfficial&show_icons=true&theme=default&hide_border=true&title_color=111827&icon_color=111827&text_color=374151&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamikOfficial&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff)
+
+</div>
+
+---
+
+## Currently
+
+- 🔍 Actively applying for **Data Science & ML internships — Summer 2026**
+- 📖 Deepening knowledge in **LLMs, RAG pipelines, and distributed training**
+- 🛠 Building projects that connect real datasets to deployable models
+
+---
+
+<div align="center">
+
+*Open to internship opportunities · Let's connect →* [**LinkedIn**](https://linkedin.com/in/shamikofficial)
+
+</div>
