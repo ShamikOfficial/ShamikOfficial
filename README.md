@@ -51,17 +51,6 @@ AI-powered carbon footprint decoder that transforms receipts, bills, and daily a
 Custom CUDA kernels for accelerating numerical Python workloads — benchmarked against NumPy/SciPy for speedup analysis.
 `CUDA` `C++` `Python` `GPU Computing` `Jupyter`
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Shamik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShamikOfficial&show_icons=true&theme=default&hide_border=true&title_color=111827&icon_color=111827&text_color=374151&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamikOfficial&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff)
-
-</div>
 
 ---
 
